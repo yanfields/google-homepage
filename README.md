@@ -1,2 +1,3 @@
-# google-homepage
-readme.md
+Description: google-homepage first excercise
+
+theodinproject.com
