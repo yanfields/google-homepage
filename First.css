@@ -1,0 +1,49 @@
+body {
+  background: white;
+}
+#nav {
+  color: black;
+  float: right;
+}
+
+#nav li{
+  text-decoration: none;
+  display: inline;
+  padding: 15px;
+}
+
+#nav li:hover {
+  text-decoration: underline;
+  color:blue;
+}
+img {
+  position: absolute;
+  right: 350px;
+  top: 100px;
+}
+
+
+form {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-top: 5px;
+  margin-left: -230px;
+}
+
+.mytext {
+  width: 300px;
+}
+
+.mytext:hover {
+  color: lightblue;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background: lightgrey;
+  width: 100%;
+  text-align: center;
+}
